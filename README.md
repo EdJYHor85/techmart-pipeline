@@ -3,6 +3,7 @@
 ![Teaching](https://img.shields.io/badge/module-DE5M4-blue)
 ![Python Version](https://img.shields.io/badge/python-3.9--3.12-blue.svg)
 
+![Open Issues](https://img.shields.io/github/issues/EdJYHor85/techmart-pipeline)
 ![CI Pipeline](https://github.com/EdJYHor85/techmart-pipeline/actions/workflows/ci.yml/badge.svg)
 ![Lint](https://github.com/EdJYHor85/techmart-pipeline/actions/workflows/lint.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/EdJYHor85/techmart-pipeline)
